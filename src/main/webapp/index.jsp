@@ -14,6 +14,8 @@
         This application was automatically built using Maven
         and deployed using Jenkins.
     </p>
+    <h1>Jenkins Pipeline Deployment Successful!</h1>
+<h2>Version 2 - Automatically deployed from GitHub</h2>
 
 </body>
 </html>
